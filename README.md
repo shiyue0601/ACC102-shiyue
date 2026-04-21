@@ -31,7 +31,7 @@ Run the application: streamlit run app.py
 
 6. Product link / Demo
 
-Streamlit App: [Insert your Streamlit Cloud Link here]
+Streamlit App: (https://acc102-shiyue-greenpower.streamlit.app/)
 Demo Video: [Insert your Loom or YouTube link here]
 
 7. Limitations & next steps
