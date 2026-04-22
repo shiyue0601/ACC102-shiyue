@@ -42,7 +42,7 @@ Run the application: streamlit run app.py
 
 Streamlit App: (https://acc102-shiyue-greenpower.streamlit.app/)
 
-Demo Video: [Insert your Loom or YouTube link here]
+Demo Video: (https://video.xjtlu.edu.cn/Mediasite/Play/dbc3d4bfef89449784ef37ca51078d6d1d)
 
 7. Limitations & next steps
 
